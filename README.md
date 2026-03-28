@@ -18,6 +18,7 @@ This app helps users track daily income & expenses, categorize them, and store e
 ## 📸 Screenshots
 | Main Screen |
 | ![Main](doc/Screenshot_20260317_200448_Basic Expense Tracker App.jpg) |
+| ![Main](Recording_20260317_182620.mp4)|
 
 ---
 
