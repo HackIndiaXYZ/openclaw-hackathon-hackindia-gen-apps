@@ -25,7 +25,7 @@ This app helps users track daily income & expenses, categorize them, and store e
 
 ## 🎥 Demo Video
 
-👉 [▶️ Watch Demo](https://github.com/HackIndiaXYZ/openclaw-hackathon-hackindia-gen-apps/blob/main/Recording_20260317_182620.mp4)
+👉 [▶️ Watch Demo](https://youtube.com/shorts/_DOXo6mMCD8?si=lF5054IrfFKUhy6a)
 
 ---
 
